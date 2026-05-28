@@ -1,0 +1,70 @@
+{
+  "guides": [
+    {
+      "path": "/keyboards",
+      "url": "https://www.betterbuylab.com/keyboards",
+      "pageType": "category"
+    },
+    {
+      "path": "/keyboards/best-mechanical-keyboards",
+      "url": "https://www.betterbuylab.com/keyboards/best-mechanical-keyboards",
+      "pageType": "buying-guide"
+    },
+    {
+      "path": "/mice",
+      "url": "https://www.betterbuylab.com/mice",
+      "pageType": "category"
+    },
+    {
+      "path": "/mice/best-wireless-gaming-mouse",
+      "url": "https://www.betterbuylab.com/mice/best-wireless-gaming-mouse",
+      "pageType": "buying-guide"
+    }
+  ],
+  "productNotes": [
+    {
+      "path": "/reviews/keychron-q5-max-q-max-series",
+      "url": "https://www.betterbuylab.com/reviews/keychron-q5-max-q-max-series"
+    },
+    {
+      "path": "/reviews/keychron-v1-ultra-8k",
+      "url": "https://www.betterbuylab.com/reviews/keychron-v1-ultra-8k"
+    },
+    {
+      "path": "/reviews/keychron-v5-max-v-max-series",
+      "url": "https://www.betterbuylab.com/reviews/keychron-v5-max-v-max-series"
+    },
+    {
+      "path": "/reviews/lemokey-p1-he",
+      "url": "https://www.betterbuylab.com/reviews/lemokey-p1-he"
+    },
+    {
+      "path": "/reviews/logitech-g-pro-x-superlight-2",
+      "url": "https://www.betterbuylab.com/reviews/logitech-g-pro-x-superlight-2"
+    },
+    {
+      "path": "/reviews/logitech-g-pro-x2-superstrike",
+      "url": "https://www.betterbuylab.com/reviews/logitech-g-pro-x2-superstrike"
+    },
+    {
+      "path": "/reviews/logitech-g715",
+      "url": "https://www.betterbuylab.com/reviews/logitech-g715"
+    },
+    {
+      "path": "/reviews/mchose-l7-pro",
+      "url": "https://www.betterbuylab.com/reviews/mchose-l7-pro"
+    },
+    {
+      "path": "/reviews/razer-naga-v2-pro",
+      "url": "https://www.betterbuylab.com/reviews/razer-naga-v2-pro"
+    },
+    {
+      "path": "/reviews/razer-pro-type-ultra",
+      "url": "https://www.betterbuylab.com/reviews/razer-pro-type-ultra"
+    },
+    {
+      "path": "/reviews/razer-viper-v3-pro",
+      "url": "https://www.betterbuylab.com/reviews/razer-viper-v3-pro"
+    }
+  ]
+}

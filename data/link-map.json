@@ -1,0 +1,34 @@
+{
+  "website": [
+    {
+      "url": "https://www.betterbuylab.com/keyboards",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/keyboards"
+    },
+    {
+      "url": "https://www.betterbuylab.com/keyboards/best-mechanical-keyboards",
+      "anchor": "Better Buy Lab keyboards guide",
+      "path": "/keyboards/best-mechanical-keyboards"
+    },
+    {
+      "url": "https://www.betterbuylab.com/mice",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/mice"
+    },
+    {
+      "url": "https://www.betterbuylab.com/mice/best-wireless-gaming-mouse",
+      "anchor": "Better Buy Lab keyboards guide",
+      "path": "/mice/best-wireless-gaming-mouse"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/betterbuylab/better-buy-lab-resources",
+      "anchor": "central hub"
+    },
+    {
+      "url": "https://github.com/betterbuylab/monitor-desk-buying-resource-map",
+      "anchor": "monitor-desk-buying-resource-map"
+    }
+  ]
+}
