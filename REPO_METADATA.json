@@ -1,28 +1,27 @@
 {
   "repoName": "keyboard-mouse-desk-resource-map",
-  "description": "Maps mechanical keyboards, wireless gaming mice, layout, switch noise, grip, and desk pairing decisions.",
+  "shortDescription": "Resource map for keyboards, gaming mice, switch feel, grip, desk space, monitor pairing, and office or gaming setup decisions.",
+  "description": "Resource map for keyboards, gaming mice, switch feel, grip, desk space, monitor pairing, and office or gaming setup decisions.",
   "homepage": "https://www.betterbuylab.com/keyboards",
   "topics": [
-    "mechanical-keyboard",
+    "betterbuylab",
+    "buying-guides",
+    "product-research",
+    "mechanical-keyboards",
     "gaming-mouse",
     "desk-setup",
     "ergonomics",
-    "buying-guides",
-    "product-research",
-    "betterbuylab",
-    "pc-peripherals"
+    "buyer-fit",
+    "pc-peripherals",
+    "typing"
   ],
   "visibility": "public",
   "pinnedRecommendation": false,
+  "profilePurpose": "Keyboard, mouse, and desk pairing maps with monitor sibling links.",
   "primaryWebsitePages": [
     "/keyboards",
-    "/keyboards/best-mechanical-keyboards",
     "/mice",
-    "/mice/best-wireless-gaming-mouse"
+    "/keyboards/best-mechanical-keyboards"
   ],
-  "siblingRepos": [
-    "better-buy-lab-resources",
-    "monitor-desk-buying-resource-map"
-  ],
-  "complianceNotes": "Scoped README links only; no live price language."
+  "complianceNotes": "Commerce-free until listing checks; no live price quotes."
 }
